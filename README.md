@@ -9,11 +9,11 @@ Live dynamic mixing done on the fly. I originally thought that having a live dyn
 Device works as should and is simple to use in terms of functionality. However, more work needs to be done in terms of content as listening to the same 16 bar loops can get boring rather quickly. The device used (Wacom tablet) needs to have a direct link to the patch.
 
 *Development*
-Development was harsh, as initially the plan was to have a direct link to the Wacom tablet to be able to draw data. This would have given a user the ability to draw and visualize audio on a spectrum, while having the waveform play from that data. However, the Wacom device has had virtually no support or documentation. I decided to revert to a simpler idea (Dynamic Mixer). 
+Development was harsh, as initially the plan was to have a direct link to the Wacom tablet to be able to draw data. This would have given a user the ability to draw and visualize audio on a spectrum, while having the waveform play from that data. This idea was inspired by Ianis Xenakis' Upic. If you'd like to see how his device worked, watch this video https://www.youtube.com/watch?v=7_Gu0qDAys0. However, the Wacom device has had virtually no support or documentation. I decided to revert to a simpler idea (Dynamic Mixer). 
 
 *HOW DO I USE THIS THING?*
 1. Click the open buttons that are located below the three sliders/mixers. Load any of the Wav files located within the WavsInteractive folder into each mixer.
 2. Hit the Bang button located above "Bangbang". This will arm and start the playback of each file at the same time. 
 3. Use your wacom device (or mouse really) to navigate the cursor in the nodes window to the bottom left of the patch (the one with the color circles). (Or for those of you who are color blind... the square window with the numbers).
 *By clicking/pressing and dragging, you can drag the cursor to raise the audio levels of certain tracks. Dragging to number 9 will have all of the audio tracks level.
-Once you get bored, you can insert your own audio files if you would like. 
+Once you get bored, you can insert your own audio files and play around. 
